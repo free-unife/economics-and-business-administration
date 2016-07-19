@@ -3,8 +3,10 @@ LaTeX file related to "Economia e gestione aziendale" course in UNIFE
 (University of Ferrara), year 2014-2016.
 
 ## What this repository is about
-This repository consists in a business plan (in Italian language) concerning a 
-fictional enterprise.
+This repository consists in a business plan presentation in Italian language 
+concerning a fictional enterprise.
+
+The presentation is written in LaTeX using the beamer class.
 
 ## How to compile and compress the resulting pdf file
 ```
